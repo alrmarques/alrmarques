@@ -1,5 +1,6 @@
 <h1 align="center">Oi👋, Eu sou André Luiz Rodrigues Marques</h1>
-<h3 align="center">sou um entusiasta de tecnologia com experiência em infraestrutura e DevOps</h3>
+<h3 align="center">Sou um entusiasta de tecnologia com experiência em infraestrutura e DevOps. Tenho interesse em automação, monitoramento e otimização de sistemas. Atualmente, estou cursando graduação tecnológica em DevOps e busco constantemente melhorar minhas habilidades através de projetos práticos e contribuições para a comunidade.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
